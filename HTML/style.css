@@ -1,0 +1,62 @@
+body{
+    background-color: aliceblue;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+.introduce{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.introduce-tit{
+    line-height: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    color: black;
+}
+
+.introduce-main{
+    display: flex;
+}
+
+.introduce-main .l{
+    margin-right: 40px;
+}
+
+.introduce .l img{
+    border-radius: 20%;
+}
+
+.introduce-main .r{
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+a:link{
+    text-align: blue;
+}
+a:visited{
+    text-align: red;
+}
